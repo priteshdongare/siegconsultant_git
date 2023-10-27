@@ -1,0 +1,32 @@
+.table{
+	padding:10px 10px 10px 10px;
+}
+.tr{
+	background:#030f27;
+	color:white;
+	padding:50px;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1 {
+  background-color: #030f27;
+  color: White;
+  border: 2px solid #030f27;
+}
+
+.button1:hover {
+ 
+  background-color: #20a4e5;
+  border: 2px solid #20a4e5;
+  color: black;
+}
