@@ -200,7 +200,7 @@ $('#number4').jQuerySimpleCounter({end: 22,duration: 2500});
 //     blah.src = URL.createObjectURL(file)
 //   }
 
-alert('hello');
+// alert('hello');
 // function imagePreview(e) {
 //     console.log(e.target.file[0]);
 // }
