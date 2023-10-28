@@ -1,7 +1,7 @@
 
             <!-- Carousel Start -->
             <div id="carousel" class="carousel slide" data-ride="carousel">
-                 <marquee width="100%" id="marquee" scrollamount="4"> We hold ID Card from The Royal Consulate of Saudi Arabia – Mumbai & New Delhi. <a href="<?= base_url(); ?>assets/documents/wakala card-converted.pdf" class="btn btn-primary btn-sm" style="color:#fff;" target="_blank"> Download Wakala Card </a></marquee>
+                 <marquee width="100%" id="marquee" scrollamount="4"> We hold ID Card from The Royal Consulate of Saudi Arabia – Mumbai & New Delhi. <!-- <a href="<?= base_url(); ?>assets/documents/wakala card-converted.pdf" class="btn btn-primary btn-sm" style="color:#fff;" target="_blank"> Download Wakala Card </a> --></marquee>
                 <ol class="carousel-indicators">
                     <li data-target="#carousel" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel" data-slide-to="1"></li>
