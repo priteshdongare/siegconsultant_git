@@ -1,7 +1,7 @@
 
             <!-- Carousel Start -->
             <div id="carousel" class="carousel slide" data-ride="carousel">
-                 <marquee width="100%" id="marquee" scrollamount="4"> We hold ID Card from The Royal Consulate of Saudi Arabia – Mumbai & New Delhi. <a href="<?= base_url(); ?>assets/documents/wakala card-converted.pdf" class="btn btn-primary btn-sm" style="color:#fff;" target="_blank"> Download Wakala Card </a></marquee>
+                 <marquee width="100%" id="marquee" scrollamount="4"> We hold ID Card from The Royal Consulate of Saudi Arabia – Mumbai & New Delhi. <!-- <a href="<?= base_url(); ?>assets/documents/wakala card-converted.pdf" class="btn btn-primary btn-sm" style="color:#fff;" target="_blank"> Download Wakala Card </a> --></marquee>
                 <ol class="carousel-indicators">
                     <li data-target="#carousel" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel" data-slide-to="1"></li>
@@ -89,7 +89,7 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item2">
                                 <div class="service-img">
-                                    <img src="<?= base_url();?>assets/images/recruitment.png">
+                                    <img src="<?base_url();?>assets/images/recruitment.png">
                                 </div><br>
                                   <h6>Overseas Reqruitment</h6> 
                                   <h6><a href="<?= base_url();?>user/manpower" >Click here to know more</a></h6>
@@ -99,7 +99,7 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item2">
                                 <div class="service-img">
-                                    <img src="<?= base_url();?>assets/images/472_visa-passport-travel-stamp-512.webp">
+                                    <img src="<?base_url();?>assets/images/472_visa-passport-travel-stamp-512.webp">
                                 </div><br>
                                   <h6>Visa Services</h6> 
                                   <h6><a href="<?= base_url();?>user/employmentvisaprocessing" >Click here to know more</a></h6>
@@ -109,7 +109,7 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item2">
                                 <div class="service-img">
-                                    <img src="<?= base_url();?>assets/images/181701.png">
+                                    <img src="<?base_url();?>assets/images/181701.png">
                                 </div><br>
                                   <h6>Air Ticketing</h6> 
                                   <h6><a href="<?= base_url();?>user/visaprocessing" >Click here to know more</a></h6>
