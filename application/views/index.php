@@ -89,7 +89,7 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item2">
                                 <div class="service-img">
-                                    <img src="<?= base_url();?>assets/images/recruitment.png">
+                                    <img src="<?php echo base_url();?>assets/images/recruitment.png">
                                 </div><br>
                                   <h6>Overseas Reqruitment</h6> 
                                   <h6><a href="<?= base_url();?>user/manpower" >Click here to know more</a></h6>
@@ -99,7 +99,7 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item2">
                                 <div class="service-img">
-                                    <img src="<?= base_url();?>assets/images/472_visa-passport-travel-stamp-512.webp">
+                                    <img src="<?php echo base_url();?>assets/images/472_visa-passport-travel-stamp-512.webp">
                                 </div><br>
                                   <h6>Visa Services</h6> 
                                   <h6><a href="<?= base_url();?>user/employmentvisaprocessing" >Click here to know more</a></h6>
@@ -109,7 +109,7 @@
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="service-item2">
                                 <div class="service-img">
-                                    <img src="<?= base_url();?>assets/images/181701.png">
+                                    <img src="<?php echo base_url();?>assets/images/181701.png">
                                 </div><br>
                                   <h6>Air Ticketing</h6> 
                                   <h6><a href="<?= base_url();?>user/visaprocessing" >Click here to know more</a></h6>
